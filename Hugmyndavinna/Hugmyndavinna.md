@@ -8,6 +8,8 @@ Nánari upplýsingar á Facebook, sjá hér.
 
 Kakó og vöfflur - Allir velkomnir.
 
+Það verður Páskamarkaður þar sem hægt er að kaupa alls konar.
+
 Sjálfstæðisflokkurinn í Hafnarfirði
 
 ## Kort af staðsettningu
