@@ -1,5 +1,5 @@
 # Hugmynd: 
-Páskaveisla
+## Páskaveisla
 
 Hin árlega páskaeggjaleit okkar verður næsta sunnudag þann 20. apríl í Sjálfstæðishúsinu, Norðurbakka kl. 13.00 til kl. 23.00
 Páskaegg í vinning, bæði stór og smá!
@@ -10,9 +10,10 @@ Kakó og vöfflur - Allir velkomnir.
 
 Sjálfstæðisflokkurinn í Hafnarfirði
 
-Kort af staðsettningu
+## Kort af staðsettningu
 
 Till þess að srkrá sig þarf að fylla út þetta form:
+## Form:
 Nafn 
 Nettfang 
 Símanumer 
@@ -21,7 +22,7 @@ Fjoldi miða
 Nafn barna
 Aldur barna
 
-Dagskrá:
+## Dagskrá:
 
 Sunnudagur 20. apríl
 Kl. 13.00: Matarvagn opnar
