@@ -14,6 +14,8 @@ Sjálfstæðisflokkurinn í Hafnarfirði
 
 ## Kort af staðsettningu
 
+## Um okkur
+
 ## Form:
 Till þess að srkrá sig þarf að fylla út þetta form:
 Nafn 
