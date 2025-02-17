@@ -5,7 +5,7 @@ Link til [Hugmyndavinna](https://github.com/TheTimidMew/Vefhonnun_verkefni_6/blo
 
 Link til [Style tyle](https://github.com/TheTimidMew/Vefhonnun_verkefni_6/blob/main/Style_Tyle/Style_Tile.md).
 
-Link til [Wireframe](https://pages.github.com/).
+Link til [Wireframe](https://pages.github.com).
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+Link til [Sitemap](https://github.com/TheTimidMew/Vefhonnun_verkefni_6/blob/main/Sitemap/Sitemap.md).
 
